@@ -127,8 +127,8 @@
               },
               {
                 "new_state": 3,
-                "rate_type": "force_dependent",
-                "rate_parameters": [ 20, 200 ]
+                "rate_type": "constant",
+                "rate_parameters": [ 25 ]
               }
             ]
           }
