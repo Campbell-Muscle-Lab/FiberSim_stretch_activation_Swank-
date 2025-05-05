@@ -1,0 +1,6 @@
+**/sim_data/**/sim_input/**/*.*
+!**/sim_data/**/sim_output/*.png
+**/generated/**/*.*
+**/output/*.png
+**/output/*.svg
+**/data/**/*.*
